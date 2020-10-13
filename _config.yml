@@ -118,11 +118,16 @@ plugins:
   - "jekyll-github-metadata"
 
 exclude:
-  [
-    "_assets",
-    "Gemfile",
-    "Gemfile.lock",
-    "gulpfile.js",
-    "node_modules",
-    "package.json",
-  ]
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - requirements.txt
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/,
+  - _assets,
+  - gulpfile.js,
+  - node_modules,
+  - package.json
