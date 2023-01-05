@@ -3,7 +3,7 @@
 source "https://rubygems.org"
 
 gemspec
-# commenting below to remove dependency with "github-pages" 
+# commenting below to remove dependency with "github-pages"
 # gem "github-pages", group: :jekyll_plugins
 
 gem "jekyll-seo-tag"
@@ -13,7 +13,8 @@ gem "jekyll-sitemap"
 # When running locally, we run into the following error —
 # `require': cannot load such file -- webrick (LoadError)
 # adding this avoids it
-gem "webrick"
+gem "webrick", "~> 1.7"
+
 
 # adding the following gems to support removal of "github-pages" dependency
 gem "jemoji"
