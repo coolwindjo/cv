@@ -96,10 +96,10 @@ end
 
 ### Large image
 
-![autosense_award]({{"/assets/img/autosens_award.png"}})
-![fusa_asil]({{"/assets/img/fusa_asil-b.png"}})
-![fusa_project_award]({{"/assets/img/fusa_project_award.png"}})
-![fusa_management_award]({{"/assets/img/fusa_management_award.png"}})
+![autosense_award]({{"assets/img/autosens_award.png"}})
+![fusa_asil]({{"assets/img/fusa_asil-b.png"}})
+![fusa_project_award]({{"assets/img/fusa_project_award.png"}})
+![fusa_management_award]({{"assets/img/fusa_management_award.png"}})
 
 ### Definition lists can be used with HTML syntax.
 
