@@ -1,3 +1,3 @@
 git add assets/img
-docker-compose up
+docker compose up
 git clean -fdx
