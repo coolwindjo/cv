@@ -3,6 +3,7 @@ logo: /assets/img/logo.jpg
 email: coolwind@hotmail.co.kr
 description: Automotive software engineer specializing in Advanced Driver Assistance Systems
 favicon: true
+google_analytics: 259748899
 color-scheme: auto
 
 plugins:
