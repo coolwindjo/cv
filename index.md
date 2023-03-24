@@ -75,6 +75,7 @@ Analytical Skills and Methodologies
 
 ### LANGUAGE
 #### Korean – Proficient
+#### German – Beginner
 #### English – Upper Intermediate
 
 |||
