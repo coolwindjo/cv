@@ -1,4 +1,4 @@
 #!/bin/bash
-git add assets/img
+git add assets/ index.md
 docker compose up
 git clean -fdx

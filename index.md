@@ -6,6 +6,8 @@ layout: default
 
 From 2013 to 2022, I was an **automotive software engineer** specializing in **Advanced Driver Assistance Systems** at the Vehicle Solutions company of **LG Electronics**. During the period, I contributed to the development and production of **lane detection algorithms** for _Mercedes Benz_ **mono cameras for NCAP 2020+**, which means I was involved in the development of the project from start to finish. Since 2022, I have been a **senior software engineer** with the **HiL/SiL systems** at **DXC Luxoft Technology**. My research interests include **software design patterns**, **autonomous vechicle**, **sensor fusion system** and **MLOPs**.
 
+Currently (as of 2023), I spend most of my time implementing my life plan to continue my career in Germany and working as a co-author of a paper, [Kalman Filter-Based Suspicious Object Tracking for Border Security and Surveillance System using Fixed Automotive Radar]({% link assets/docs/Kalman_Filter-Based_Suspicious_Object_Tracking_for_Border_Security_and_Surveillance_System_using_Fixed_Automotive_Radar.pdf %}){:target="_blank"} for [Sensor Signal Processing for Defence 2023](<https://sspd.eng.ed.ac.uk/>){:target="_blank"}
+
 <br>
 <br>
 <br>
