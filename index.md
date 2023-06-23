@@ -66,7 +66,7 @@ Analytical Skills and Methodologies
 ||||
 |:-------------|:------------------|:------|
 | **KAIST**<br>(Feb. 2011 – Feb. 2013) | **M.S.** in Dept. of **Mechanical Engineering**<br>&nbsp;&nbsp;&nbsp;&nbsp;• **Optimization Algorithm**<br>&nbsp;&nbsp;&nbsp;&nbsp;• [“Model-based Optimal Hand Posture Recognition using Kinect Sensor](<https://koasas.kaist.ac.kr/handle/10203/181739>){:target="_blank"} | Daejeon, Korea |
-| **Hanyang Univ.**<br>(Sep. 2004 – Feb. 2011) | **B.S.** in Major of Computer (**Computer Science**) | Seoul, Korea |
+| **Hanyang Univ.**<br>(Mar. 2004 – Feb. 2011) | **B.S.** in Major of Computer (**Computer Science**) | Seoul, Korea |
 | Eastbourne School of English<br>(Jan. 2007 – Jul. 2007) | Language course for “Cambridge Exam”<br>&nbsp;&nbsp;&nbsp;&nbsp;• studying English speaking and being certified as an intermediate level of English speaker | Eastbourne, The UK |
 
 <br>
@@ -83,7 +83,6 @@ Analytical Skills and Methodologies
 |||
 |:-------------|:------------------|
 | **TOEIC SPEAKING** (19 Jan. 2013) | **Level 7** (160/200) |
-| **TOEIC** (2 Feb. 2013) | **855**/990 (RC:440 / LC:415) |
 | **TOEFL iBT** (14 Mar. 2009) | **98**/120 (RC:28 / LC:29 / SPK:20 / WR:20) |
 | **TOEIC** (31 May 2009) | **925**/990 (RC:435 / LC:490) |
 
