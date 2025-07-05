@@ -4,12 +4,12 @@ layout: default
 
 ### ABOUT ME
 
-From 2013 to 2022, I was an **automotive software engineer** specializing in **Advanced Driver Assistance Systems** at the Vehicle Solutions company of **LG Electronics**. During the period, I contributed to the development and production of **lane detection algorithms** for _Mercedes Benz_ **mono cameras for NCAP 2020+**, which means I was involved in the development of the project from start to finish. Since 2022, I have been a **senior software engineer** with the **HiL/SiL systems** at **DXC Luxoft Technology**. My research interests include **software design patterns**, **autonomous vechicle**, **sensor fusion system** and **MLOPs**.
+From 2013 to 2022, I was an **automotive software engineer** specializing in **Advanced Driver Assistance Systems** at the Vehicle Solutions company of **LG Electronics**, where I significantly contributed to the development and production of **lane detection algorithms** for *Mercedes Benz* **mono cameras for NCAP 2020+**. From March 2022 to June 2023, I served as a **senior software engineer** with the **HiL/SiL systems** at **DXC Luxoft Technology**.
 
-Currently (as of 2023), I spend most of my time implementing my life plan to continue my career in Germany and working as a co-author of a paper, [Kalman Filter-Based Suspicious Object Tracking for Border Security and Surveillance System using Fixed Automotive Radar]({% link assets/docs/Kalman_Filter-Based_Suspicious_Object_Tracking_for_Border_Security_and_Surveillance_System_using_Fixed_Automotive_Radar.pdf %}){:target="_blank"} for [Sensor Signal Processing for Defence 2023](<https://sspd.eng.ed.ac.uk/>){:target="_blank"}
+Currently, since June 2023, I am an **Automotive Cybersecurity Software Engineer** at **Autocrypt Technologies GmbH**. Since October 2023, based in Germany, I primarily perform the roles of **Technical Project Manager** and **Resident Engineer** within the Global Engineering Support Team. Furthermore, since January 2024, I have been functioning as a **Project Leader** for Autocrypt Technologies GmbH in its capacity as an IDPS (Intrusion Detection and Prevention System) module supplier for a **major Tier-1 automotive supplier**, which provides RTCUs for a **leading global automotive OEM**, with the first **Start of Production (SoP) targeted for Q4 2025**.
 
-<br>
-<br>
+My research interests include **software design patterns, autonomous vehicles, sensor fusion systems, automotive cybersecurity,** and **MLOps.** Recently, I am a co-author of a couple of papers including [LiDAR Denoising Methods in Adverse Environments: A Review](<https://ieeexplore.ieee.org/abstract/document/10839256>){:target="_blank"} published in [IEEE Sensors Journal](<https://ieee-sensors.org/ieee-sensors-journal/>){:target="_blanks"}, 2025, and [Kalman Filter-Based Suspicious Object Tracking for Border Security and Surveillance System using Fixed Automotive Radar](<https://ieeexplore.ieee.org/abstract/document/10257069>){:target="_blank"} for [Sensor Signal Processing for Defence 2023](<https://sspd.eng.ed.ac.uk/>){:target="_blank"}.
+
 <br>
 <br>
 <br>
@@ -17,31 +17,40 @@ Currently (as of 2023), I spend most of my time implementing my life plan to con
 ### SKILLS
 
 Tools and Technologies
--	C++ (Advanced,  9+ y current)
--	Git (Advanced,  8 y current)
--	Google Test (Intermediate,  6 y current)
--	Docker (Advanced,  2 y current)
--	CMake (Intermediate,  <1 y current)
--	Qt (Intermediate,  <1 y current)
--	Groovy Jenkins DSL (Intermediate,  6 y current)
--	Jenkins Pipeline (Intermediate,  6 y current)
--	Machine Learning (Novice,  1 y 1 year ago)
--	Computer Vision Algorithm (Advanced,  6 y 3 years ago)
--	ADTF (Automotive Data and Time-Triggered Framework) (Advanced,  5 y 3 years ago)
--	Augmented Reality (Novice,  2 y 10+ years ago)
--	Computer Graphics (Novice,  1 y 10+ years ago)
--	LiDAR (Novice,  <1 y 10+ years ago)
+
+-	Security Fuzzing (Intermediate,  2 y current)
+-	IDPS (Intrusion Detection and Prevention Systems) (Intermediate,  2 y current)
+-	LiDAR (Intermediate,  2 y current)
+-	C++ (Advanced,  12+ y current)
+-	Git (Advanced,  11 y current)
+-	Docker (Advanced,  5 y current)
+-	CMake (Intermediate,  <1 y 2 years ago)
+-	Google Test (Intermediate,  6 y 2 years ago)
+-	Qt (Intermediate,  <1 y 2 years ago)
+-	Groovy Jenkins DSL (Intermediate,  6 y 3 years ago)
+-	Jenkins Pipeline (Intermediate,  6 y 3 years ago)
+-	Machine Learning (Novice,  1 y 4 years ago)
+-	Computer Vision Algorithm (Advanced,  6 y 6 years ago)
+-	ADTF (Automotive Data and Time-Triggered Framework) (Advanced,  5 y 6 years ago)
+-	Augmented Reality (Novice,  2 y 13+ years ago)
+-	Computer Graphics (Novice,  1 y 13+ years ago)
 
 Industries and Business Domains
--	Robot Operating System (ROS) (Intermediate,  2 y current)
+
+-	Automotive Cybersecurity (Advanced,  2 y current)
+-	ISO/SAE 21434 (Intermediate,  2 y current)
+-	Robot Operating System (ROS) (Intermediate,  3 y current)
+-	Automotive SPICE (Intermediate,  5 y 5 years ago)
+-	ISO 26262 (Functional Safety) (Advanced,  8 y 3 years ago)
 
 Analytical Skills and Methodologies
--	Algorithms (Advanced,  8 y current)
-- Test-Driven Development (Intermediate,  2 y current)
--	Analytical Skills (Novice,  1 y current)
 
-<br>
-<br>
+-	Project Management (Advanced,  2 y current)
+-	Requirements Engineering (Intermediate,  4 y current)
+-	Risk Assessment (Intermediate,  2 y current)
+-	Algorithms (Advanced,  8 y 2 years ago)
+-	Test-Driven Development (Intermediate,  2 y 2 years ago)
+
 <br>
 <br>
 <br>
@@ -50,13 +59,33 @@ Analytical Skills and Methodologies
 
 ||||
 |:-------------|:------------------|:------|
-| **DXC Luxoft**<br>(Mar. 2022 – Present) | **Automotive Software Engineer**, developed HiL/SiL system for Advanced Driver Assistance Systems:<br>&nbsp;&nbsp;&nbsp;&nbsp;• Implementing a hardware simulation tool using Qt5<br>**Customer**: Mobis<br>**Skills**: C++, CMake, Docker, Git, Google Test, Qt, Test-Driven Development | Seoul, Korea |
-| **LG Electronics**<br>(Jan. 2021 – Feb. 2022) | **Automotive Software Engineer**, developed algorithms for interior camera (driver monitoring, cabin monitoring):<br>&nbsp;&nbsp;&nbsp;&nbsp;• implementing quantization automation system using jenkins in docker.<br>&nbsp;&nbsp;&nbsp;&nbsp;• researching on machine learning operation (MLOps) process to make the most of the existing neural network models.<br>**Customer**: HKMC<br>**Skills**: C++, Computer Vision Algorithm, Docker, Git, Google Test, Groovy Jenkins DSL, Jenkins Pipeline, Machine Learning, Test-Driven Development| Seoul, Korea |
-| **LG Electronics**<br>(Jan. 2016 – Dec. 2020) | **Automotive Software Engineer**, developed hardware accelerated algorithm components for Tunnel Classification system:<br>&nbsp;&nbsp;&nbsp;&nbsp;• implementing an optimized CNN algorithm using image processing IP in collaboration with AI researchers.<br>&nbsp;&nbsp;&nbsp;&nbsp;• implementing Software Detailed Design, Software Requirements Specification for Automotive-SPICE<br>**Automotive Software Engineer**, developed lane recognition component for Lane Keeping Assist System (LKAS) (for DAIMLER project):<br>&nbsp;&nbsp;&nbsp;&nbsp;• developing raised lane marker detection algorithm (e.g. Botts’ dots in California state)<br>&nbsp;&nbsp;&nbsp;&nbsp;• developing a lane detection accuracy assessment system by combining DGPS data of ego vehicle and geographically annotated lane data to make its ground truth using ADTF.<br>&nbsp;&nbsp;&nbsp;&nbsp;• leading a small group that sets up daily KPI evaluation system using Jenkins (using pipeline and master-slave layout)<br>&nbsp;&nbsp;&nbsp;&nbsp;• setting up a ‘Test Driven Development’ framework to make developing process to be more reliable so that functions are easily verified by pre-defined unit tests using ‘google test’<br>&nbsp;&nbsp;&nbsp;&nbsp;• refactoring whole architecture of component to be layered structure through Dependency Structure Matrix <br>**Function Owner**, developed online camera extrinsic self-calibration function:<br>&nbsp;&nbsp;&nbsp;&nbsp;• leading a group that develops online, factory camera extrinsic self-calibration and ego-motion estimation algorithms<br>&nbsp;&nbsp;&nbsp;&nbsp;• developing vanishing point estimation algorithm using Dense Optical Flow when pavement marking is not available <br>**Customer**: DAIMLER Mercedes Benz<br>**Project description**: LG’s sophisticated ADAS supports a variety of essential safety-oriented functions including Automatic Emergency Braking (AEB), Lane Departure Warning (LDW), Lane Keeping Assist (LKA), Traffic Sign Recognition (TSR), Intelligent Head-Light Control (IHC) and Adaptive Cruise Control (ACC) to not only ensure the safety of the vehicle’s occupants but other motorists and pedestrians as well.  <br>**Article links**:<br>&nbsp;&nbsp;&nbsp;&nbsp;• [LG ADAS camera in new Mercedes-Benz C-Class](<https://www.lg.com/global/mobility/press-release/lg-adas-camera-module-boosts-driver-and-passenger-safety-in-new-mercedes-benz-C-class>){:target="_blank"}<br>&nbsp;&nbsp;&nbsp;&nbsp;• [LG Wins AutoSens 2020 Vision Award](<https://www.lgnewsroom.com/2021/11/lg-wins-autosens-2020-vision-award-for-collaboration-with-mercedes-benz/>){:target="_blank"} <br>**Skills**: C++, ADTF (Automotive Data and Time-Triggered Framework), Analytical Skills, Computer Vision Algorithm, Docker, Git, Google Test, Groovy Jenkins DSL, Jenkins Pipeline, Machine Learning, Test-Driven Development | Seoul, Korea |
-| **LG Electronics**<br>(Jan 2014 – Feb 2016) | **Application Software Developer**, researched on Advanced Driver Assistance Systems:<br>&nbsp;&nbsp;&nbsp;&nbsp;• implementing function signal visualizer (viewer) using ADTF with C++ for proof of concept for OEM demonstration<br>&nbsp;&nbsp;&nbsp;&nbsp;• taking an initiative action for preparing a group to apply Functional Safety concept based on ISO26262.<br>&nbsp;&nbsp;&nbsp;&nbsp;• implementing CAN router with PCAN-Router<br>**Skills**: C++, ADTF (Automotive Data and Time-Triggered Framework), Algorithms, Computer Vision Algorithm, Git | Incheon, Korea |
+| **Autocrypt Technologies GmbH**<br>(Jun. 2023 – Present) | **Automotive Cybersecurity Software Engineer / Technical Project Manager**, leading IDPS module development:<br>&nbsp;&nbsp;&nbsp;&nbsp; • Managing technical aspects of IDPS (Intrusion Detection and Prevention System) module integration for automotive RTCUs<br>&nbsp;&nbsp;&nbsp;&nbsp; • Leading cross-functional teams across multiple countries for successful product delivery <br>&nbsp;&nbsp;&nbsp;&nbsp; • Serving as resident engineer for on-site customer support and technical coordination<br>&nbsp;&nbsp;&nbsp;&nbsp; • Ensuring compliance with automotive cybersecurity standards (ISO/SAE 21434) <br>**Customer**: Major European OEM (via Tier-1 supplier)<br>**Skills**: C++, IDPS, Git, Project Management, ISO/SAE 21434 | Munich, Germany |
+| **DXC Luxoft**<br>(Mar. 2022 – Jun. 2023) | **Senior Automotive Software Engineer**, developed HiL/SiL system for Advanced Driver Assistance Systems:<br>&nbsp;&nbsp;&nbsp;&nbsp;• Implementing a hardware simulation tool using Qt5<br>&nbsp;&nbsp;&nbsp;&nbsp;• Designing modular architecture for scalable test environments<br>**Customer**: Mobis<br>**Skills**: C++, CMake, Docker, Git, Google Test, Qt, Test-Driven Development | Seoul, Korea |
+| **LG Electronics**<br>(Jan. 2021 – Feb. 2022) | **Automotive Software Engineer**, developed algorithms for interior camera (driver monitoring, cabin monitoring):<br>&nbsp;&nbsp;&nbsp;&nbsp;• Implementing quantization automation system using jenkins in docker<br>&nbsp;&nbsp;&nbsp;&nbsp;• Researching on machine learning operation (MLOps) process to make the most of the existing neural network models<br>**Customer**: HKMC<br>**Skills**: C++, Computer Vision Algorithm, Docker, Git, Google Test, Groovy Jenkins DSL, Jenkins Pipeline, Machine Learning, Test-Driven Development| Seoul, Korea |
+| **LG Electronics**<br>(Jan. 2016 – Dec. 2020) | **Automotive Software Engineer**, developed hardware accelerated algorithm components for Tunnel Classification system:<br>&nbsp;&nbsp;&nbsp;&nbsp;• Implementing an optimized CNN algorithm using image processing IP in collaboration with AI researchers<br>&nbsp;&nbsp;&nbsp;&nbsp;• Implementing Software Detailed Design, Software Requirements Specification for Automotive-SPICE<br>**Automotive Software Engineer**, developed lane recognition component for Lane Keeping Assist System (LKAS) (for DAIMLER project):<br>&nbsp;&nbsp;&nbsp;&nbsp;• Developing raised lane marker detection algorithm (e.g. Botts' dots in California state)<br>&nbsp;&nbsp;&nbsp;&nbsp;• Developing a lane detection accuracy assessment system by combining DGPS data of ego vehicle and geographically annotated lane data to make its ground truth using ADTF<br>&nbsp;&nbsp;&nbsp;&nbsp;• Leading a small group that sets up daily KPI evaluation system using Jenkins (using pipeline and master-slave layout)<br>&nbsp;&nbsp;&nbsp;&nbsp;• Setting up a 'Test Driven Development' framework to make developing process to be more reliable so that functions are easily verified by pre-defined unit tests using 'google test'<br>&nbsp;&nbsp;&nbsp;&nbsp;• Refactoring whole architecture of component to be layered structure through Dependency Structure Matrix <br>**Function Owner**, developed online camera extrinsic self-calibration function:<br>&nbsp;&nbsp;&nbsp;&nbsp;• Leading a group that develops online, factory camera extrinsic self-calibration and ego-motion estimation algorithms<br>&nbsp;&nbsp;&nbsp;&nbsp;• Developing vanishing point estimation algorithm using Dense Optical Flow when pavement marking is not available <br>**Customer**: DAIMLER Mercedes Benz<br>**Project description**: LG's sophisticated ADAS supports a variety of essential safety-oriented functions including Automatic Emergency Braking (AEB), Lane Departure Warning (LDW), Lane Keeping Assist (LKA), Traffic Sign Recognition (TSR), Intelligent Head-Light Control (IHC) and Adaptive Cruise Control (ACC) to not only ensure the safety of the vehicle's occupants but other motorists and pedestrians as well.  <br>**Article links**:<br>&nbsp;&nbsp;&nbsp;&nbsp;• [LG ADAS camera in new Mercedes-Benz C-Class](<https://www.lg.com/global/mobility/press-release/lg-adas-camera-module-boosts-driver-and-passenger-safety-in-new-mercedes-benz-C-class>){:target="_blank"}<br>&nbsp;&nbsp;&nbsp;&nbsp;• [LG Wins AutoSens 2020 Vision Award](<https://www.lgnewsroom.com/2021/11/lg-wins-autosens-2020-vision-award-for-collaboration-with-mercedes-benz/>){:target="_blank"} <br>**Skills**: C++, ADTF (Automotive Data and Time-Triggered Framework), Analytical Skills, Computer Vision Algorithm, Docker, Git, Google Test, Groovy Jenkins DSL, Jenkins Pipeline, Machine Learning, Test-Driven Development | Seoul, Korea |
+| **LG Electronics**<br>(Jan 2014 – Feb 2016) | **Application Software Developer**, researched on Advanced Driver Assistance Systems:<br>&nbsp;&nbsp;&nbsp;&nbsp;• Implementing function signal visualizer (viewer) using ADTF with C++ for proof of concept for OEM demonstration<br>&nbsp;&nbsp;&nbsp;&nbsp;• Taking an initiative action for preparing a group to apply Functional Safety concept based on ISO26262<br>&nbsp;&nbsp;&nbsp;&nbsp;• Implementing CAN router with PCAN-Router<br>**Skills**: C++, ADTF (Automotive Data and Time-Triggered Framework), Algorithms, Computer Vision Algorithm, Git | Incheon, Korea |
 
 <br>
 <br>
+<br>
+
+### PUBLICATIONS
+
+||||
+|:-------------|:------------------|:------|
+| **IEEE Sensors Journal**<br>(2025) | **LiDAR Denoising Methods in Adverse Environments: A Review**<br>&nbsp;&nbsp;&nbsp;&nbsp;• Comprehensive review of state-of-the-art LiDAR denoising techniques<br>&nbsp;&nbsp;&nbsp;&nbsp;• Analysis of performance in various adverse environmental conditions | |
+| **SSPD Conference**<br>(2023) | **Kalman Filter-Based Suspicious Object Tracking for Border Security and Surveillance Systems using Fixed Automotive Radar**<br>&nbsp;&nbsp;&nbsp;&nbsp;• Novel approach for radar-based object tracking in security applications<br>&nbsp;&nbsp;&nbsp;&nbsp;• Implementation of adaptive Kalman filter for improved tracking accuracy | |
+
+<br>
+<br>
+<br>
+
+### PATENTS
+
+||||
+|:-------------|:------------------|:------|
+| **Display Apparatus and Vehicle Having The Same**<br>(Mar. 2018) | Patent Registration: KR 10-1838187<br>Application Date: March 25, 2016<br>Registration Date: March 7, 2018<br>&nbsp;&nbsp;&nbsp;&nbsp;• Innovative display system for automotive applications<br>&nbsp;&nbsp;&nbsp;&nbsp;• Enhanced driver information display technology | Korea |
+
 <br>
 <br>
 <br>
@@ -65,18 +94,16 @@ Analytical Skills and Methodologies
 
 ||||
 |:-------------|:------------------|:------|
-| **KAIST**<br>(Feb. 2011 – Feb. 2013) | **M.S.** in Dept. of **Mechanical Engineering**<br>&nbsp;&nbsp;&nbsp;&nbsp;• **Optimization Algorithm**<br>&nbsp;&nbsp;&nbsp;&nbsp;• [“Model-based Optimal Hand Posture Recognition using Kinect Sensor](<https://koasas.kaist.ac.kr/handle/10203/181739>){:target="_blank"} | Daejeon, Korea |
+| **KAIST**<br>(Feb. 2011 – Feb. 2013) | **M.S.** in Dept. of **Mechanical Engineering**<br>&nbsp;&nbsp;&nbsp;&nbsp;• **Optimization Algorithm**<br>&nbsp;&nbsp;&nbsp;&nbsp;• [Model-based Optimal Hand Posture Recognition using Kinect Sensor](<https://koasas.kaist.ac.kr/handle/10203/181739>){:target="_blank"} | Daejeon, Korea |
 | **Hanyang Univ.**<br>(Mar. 2004 – Feb. 2011) | **B.S.** in Major of Computer (**Computer Science**) | Seoul, Korea |
-| Eastbourne School of English<br>(Jan. 2007 – Jul. 2007) | Language course for “Cambridge Exam”<br>&nbsp;&nbsp;&nbsp;&nbsp;• studying English speaking and being certified as an intermediate level of English speaker | Eastbourne, The UK |
+| Eastbourne School of English<br>(Jan. 2007 – Jul. 2007) | Language course for "Cambridge Exam"<br>&nbsp;&nbsp;&nbsp;&nbsp;• studying English speaking and being certified as an intermediate level of English speaker | Eastbourne, The UK |
 
-<br>
-<br>
 <br>
 <br>
 <br>
 
 ### LANGUAGE
-#### Korean – Proficient
+#### Korean – Native
 #### German – Beginner
 #### English – Upper Intermediate
 
@@ -86,8 +113,6 @@ Analytical Skills and Methodologies
 | **TOEFL iBT** (14 Mar. 2009) | **98**/120 (RC:28 / LC:29 / SPK:20 / WR:20) |
 | **TOEIC** (31 May 2009) | **925**/990 (RC:435 / LC:490) |
 
-<br>
-<br>
 <br>
 <br>
 <br>
