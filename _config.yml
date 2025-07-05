@@ -24,6 +24,10 @@ navigation:
     link: ./index.html#about-me
   - name: SKILLS
     link: ./index.html#skills
+  - name: PUBLICATIONS
+    link: ./index.html#publications
+  - name: PATENTS
+    link: ./index.html#patents
   - name: WORK EXPERIENCE
     link: ./index.html#work-experience
   - name: EDUCATION
