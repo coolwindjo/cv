@@ -8,7 +8,7 @@ From 2013 to 2022, I was an **automotive software engineer** specializing in **A
 
 Currently, since June 2023, I am an **Automotive Cybersecurity Software Engineer** at **Autocrypt Technologies GmbH**. Since October 2023, based in Germany, I primarily perform the roles of **Technical Project Manager** and **Resident Engineer** within the Global Engineering Support Team. Furthermore, since January 2024, I have been functioning as a **Project Leader** for Autocrypt Technologies GmbH in its capacity as an IDPS (Intrusion Detection and Prevention System) module supplier for a **major Tier-1 automotive supplier**, which provides RTCUs for a **leading global automotive OEM**, with the first **Start of Production (SoP) targeted for Q4 2025**.
 
-My research interests include **software design patterns, autonomous vehicles, sensor fusion systems, automotive cybersecurity,** and **MLOps.** Recently, I am a co-author of a couple of papers including [LiDAR Denoising Methods in Adverse Environments: A Review](<https://ieeexplore.ieee.org/abstract/document/10839256>){:target="_blank"} published in [IEEE Sensors Journal](<https://ieee-sensors.org/ieee-sensors-journal/>){:target="_blanks"}, 2025, and [Kalman Filter-Based Suspicious Object Tracking for Border Security and Surveillance System using Fixed Automotive Radar](<https://ieeexplore.ieee.org/abstract/document/10257069>){:target="_blank"} for [Sensor Signal Processing for Defence 2023](<https://sspd.eng.ed.ac.uk/>){:target="_blank"}.
+My research interests include **software design patterns, autonomous vehicles, sensor fusion systems, automotive cybersecurity,** and **MLOps.** Recently, I am a co-author of a couple of papers including <a href="#publications"><b>LiDAR Denoising Methods in Adverse Environments: A Review</b></a> published in **IEEE Sensors Journal**, 2025, and <a href="#publications"><b>Kalman Filter-Based Suspicious Object Tracking for Border Security and Surveillance System using Fixed Automotive Radar</b></a> for **Sensor Signal Processing for Defence 2023**.
 
 <br>
 <br>
@@ -59,8 +59,8 @@ Analytical Skills and Methodologies
 
 ||||
 |:-------------|:------------------|:------|
-| **IEEE Sensors Journal**<br>(2025) | **LiDAR Denoising Methods in Adverse Environments: A Review**<br>&nbsp;&nbsp;&nbsp;&nbsp;• Comprehensive review of state-of-the-art LiDAR denoising techniques<br>&nbsp;&nbsp;&nbsp;&nbsp;• Analysis of performance in various adverse environmental conditions | |
-| **SSPD Conference**<br>(2023) | **Kalman Filter-Based Suspicious Object Tracking for Border Security and Surveillance Systems using Fixed Automotive Radar**<br>&nbsp;&nbsp;&nbsp;&nbsp;• Novel approach for radar-based object tracking in security applications<br>&nbsp;&nbsp;&nbsp;&nbsp;• Implementation of adaptive Kalman filter for improved tracking accuracy | |
+| [IEEE Sensors Journal](<https://ieee-sensors.org/ieee-sensors-journal/>){:target="_blanks"} <br>(2025) | [LiDAR Denoising Methods in Adverse Environments: A Review](<https://ieeexplore.ieee.org/abstract/document/10839256>){:target="_blank"} <br>&nbsp;&nbsp;&nbsp;&nbsp;• Comprehensive review of state-of-the-art LiDAR denoising techniques<br>&nbsp;&nbsp;&nbsp;&nbsp;• Analysis of performance in various adverse environmental conditions | |
+| [Sensor Signal Processing for Defence 2023](<https://sspd.eng.ed.ac.uk/>){:target="_blank"} <br>(2023) | [Kalman Filter-Based Suspicious Object Tracking for Border Security and Surveillance System using Fixed Automotive Radar](<https://ieeexplore.ieee.org/abstract/document/10257069>){:target="_blank"} <br>&nbsp;&nbsp;&nbsp;&nbsp;• Novel approach for radar-based object tracking in security applications<br>&nbsp;&nbsp;&nbsp;&nbsp;• Implementation of adaptive Kalman filter for improved tracking accuracy | |
 
 <br>
 <br>
