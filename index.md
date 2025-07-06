@@ -17,7 +17,6 @@ My research interests include **software design patterns, autonomous vehicles, s
 ### SKILLS
 
 Tools and Technologies
-
 -	Security Fuzzing (Intermediate,  2 y current)
 -	IDPS (Intrusion Detection and Prevention Systems) (Intermediate,  2 y current)
 -	LiDAR (Intermediate,  2 y current)
@@ -36,7 +35,6 @@ Tools and Technologies
 -	Computer Graphics (Novice,  1 y 13+ years ago)
 
 Industries and Business Domains
-
 -	Automotive Cybersecurity (Advanced,  2 y current)
 -	ISO/SAE 21434 (Intermediate,  2 y current)
 -	Robot Operating System (ROS) (Intermediate,  3 y current)
@@ -44,7 +42,6 @@ Industries and Business Domains
 -	ISO 26262 (Functional Safety) (Advanced,  8 y 3 years ago)
 
 Analytical Skills and Methodologies
-
 -	Project Management (Advanced,  2 y current)
 -	Requirements Engineering (Intermediate,  4 y current)
 -	Risk Assessment (Intermediate,  2 y current)
@@ -80,7 +77,7 @@ Analytical Skills and Methodologies
 
 ||||
 |:-------------|:------------------|:------|
-| **Autocrypt Technologies GmbH**<br>(Jun. 2023 – Present) | **Automotive Cybersecurity Software Engineer / Technical Project Manager**, leading IDPS module development:<br>&nbsp;&nbsp;&nbsp;&nbsp; • Managing technical aspects of IDPS (Intrusion Detection and Prevention System) module integration for automotive RTCUs<br>&nbsp;&nbsp;&nbsp;&nbsp; • Leading cross-functional teams across multiple countries for successful product delivery <br>&nbsp;&nbsp;&nbsp;&nbsp; • Serving as resident engineer for on-site customer support and technical coordination<br>&nbsp;&nbsp;&nbsp;&nbsp; • Ensuring compliance with automotive cybersecurity standards (ISO/SAE 21434) <br>**Customer**: Major European OEM (via Tier-1 supplier)<br>**Skills**: C++, IDPS, Git, Project Management, ISO/SAE 21434 | Munich, Germany |
+| **Autocrypt Technologies GmbH**<br>(Jun. 2023 – Present) | **Automotive Cybersecurity Software Engineer / Technical Project Manager**, leading IDPS module development:<br>&nbsp;&nbsp;&nbsp;&nbsp; • Managing technical aspects of IDPS (Intrusion Detection and Prevention System) module integration for automotive RTCUs<br>&nbsp;&nbsp;&nbsp;&nbsp; • Leading cross-functional teams across multiple countries for successful product delivery <br>&nbsp;&nbsp;&nbsp;&nbsp; • Developed automated security fuzzing and HiLS-integrated testing framework for ISO 15118 electric vehicle charging protocols in BMW partnership <br>&nbsp;&nbsp;&nbsp;&nbsp; • Led cybersecurity validation initiatives through Bavarian state-funded consortium, advancing automotive industry security standards <br>&nbsp;&nbsp;&nbsp;&nbsp; • Serving as resident engineer for on-site customer support and technical coordination<br>&nbsp;&nbsp;&nbsp;&nbsp; • Ensuring compliance with automotive cybersecurity standards (ISO/SAE 21434) <br>**Customer**: Major European OEM (via Tier-1 supplier)<br>**Skills**: C++, IDS, Security Fuzzing, Git, Project Management, ISO/SAE 21434, ISO 15118 | Munich, Germany |
 | **DXC Luxoft**<br>(Mar. 2022 – Jun. 2023) | **Senior Automotive Software Engineer**, developed HiL/SiL system for Advanced Driver Assistance Systems:<br>&nbsp;&nbsp;&nbsp;&nbsp;• Implementing a hardware simulation tool using Qt5<br>&nbsp;&nbsp;&nbsp;&nbsp;• Designing modular architecture for scalable test environments<br>**Customer**: Mobis<br>**Skills**: C++, CMake, Docker, Git, Google Test, Qt, Test-Driven Development | Seoul, Korea |
 | **LG Electronics**<br>(Jan. 2021 – Feb. 2022) | **Automotive Software Engineer**, developed algorithms for interior camera (driver monitoring, cabin monitoring):<br>&nbsp;&nbsp;&nbsp;&nbsp;• Implementing quantization automation system using jenkins in docker<br>&nbsp;&nbsp;&nbsp;&nbsp;• Researching on machine learning operation (MLOps) process to make the most of the existing neural network models<br>**Customer**: HKMC<br>**Skills**: C++, Computer Vision Algorithm, Docker, Git, Google Test, Groovy Jenkins DSL, Jenkins Pipeline, Machine Learning, Test-Driven Development| Seoul, Korea |
 | **LG Electronics**<br>(Jan. 2016 – Dec. 2020) | **Automotive Software Engineer**, developed hardware accelerated algorithm components for Tunnel Classification system:<br>&nbsp;&nbsp;&nbsp;&nbsp;• Implementing an optimized CNN algorithm using image processing IP in collaboration with AI researchers<br>&nbsp;&nbsp;&nbsp;&nbsp;• Implementing Software Detailed Design, Software Requirements Specification for Automotive-SPICE<br>**Automotive Software Engineer**, developed lane recognition component for Lane Keeping Assist System (LKAS) (for DAIMLER project):<br>&nbsp;&nbsp;&nbsp;&nbsp;• Developing raised lane marker detection algorithm (e.g. Botts' dots in California state)<br>&nbsp;&nbsp;&nbsp;&nbsp;• Developing a lane detection accuracy assessment system by combining DGPS data of ego vehicle and geographically annotated lane data to make its ground truth using ADTF<br>&nbsp;&nbsp;&nbsp;&nbsp;• Leading a small group that sets up daily KPI evaluation system using Jenkins (using pipeline and master-slave layout)<br>&nbsp;&nbsp;&nbsp;&nbsp;• Setting up a 'Test Driven Development' framework to make developing process to be more reliable so that functions are easily verified by pre-defined unit tests using 'google test'<br>&nbsp;&nbsp;&nbsp;&nbsp;• Refactoring whole architecture of component to be layered structure through Dependency Structure Matrix <br>**Function Owner**, developed online camera extrinsic self-calibration function:<br>&nbsp;&nbsp;&nbsp;&nbsp;• Leading a group that develops online, factory camera extrinsic self-calibration and ego-motion estimation algorithms<br>&nbsp;&nbsp;&nbsp;&nbsp;• Developing vanishing point estimation algorithm using Dense Optical Flow when pavement marking is not available <br>**Customer**: DAIMLER Mercedes Benz<br>**Project description**: LG's sophisticated ADAS supports a variety of essential safety-oriented functions including Automatic Emergency Braking (AEB), Lane Departure Warning (LDW), Lane Keeping Assist (LKA), Traffic Sign Recognition (TSR), Intelligent Head-Light Control (IHC) and Adaptive Cruise Control (ACC) to not only ensure the safety of the vehicle's occupants but other motorists and pedestrians as well.  <br>**Article links**:<br>&nbsp;&nbsp;&nbsp;&nbsp;• [LG ADAS camera in new Mercedes-Benz C-Class](<https://www.lg.com/global/mobility/press-release/lg-adas-camera-module-boosts-driver-and-passenger-safety-in-new-mercedes-benz-C-class>){:target="_blank"}<br>&nbsp;&nbsp;&nbsp;&nbsp;• [LG Wins AutoSens 2020 Vision Award](<https://www.lgnewsroom.com/2021/11/lg-wins-autosens-2020-vision-award-for-collaboration-with-mercedes-benz/>){:target="_blank"} <br>**Skills**: C++, ADTF (Automotive Data and Time-Triggered Framework), Analytical Skills, Computer Vision Algorithm, Docker, Git, Google Test, Groovy Jenkins DSL, Jenkins Pipeline, Machine Learning, Test-Driven Development | Seoul, Korea |
@@ -103,6 +100,7 @@ Analytical Skills and Methodologies
 <br>
 
 ### LANGUAGE
+
 #### Korean – Native
 #### German – Beginner
 #### English – Upper Intermediate
@@ -129,14 +127,22 @@ Analytical Skills and Methodologies
 | **Hanyang Univ.**<br>(Mar. 2004 - Sep. 2010) | **6 scholarships** for 8 semesters including **Full scholarships for highest distinction** or **outstanding student** | Seoul, Korea |
 | **Hanyang Univ.**<br>(Nov. 2008) | **Best Mentor Honors**<br>&nbsp;&nbsp;&nbsp;&nbsp;• winning the prize for the best mentor in Foreign Students Mentoring Program | Seoul, Korea |
 
+
 #### AutoSens Award
+
 ![autosens_award]({{"assets/img/autosens_award.png"}})
 
+
 #### Functional Safty ASIL-B
+
 ![fusa_asil]({{"assets/img/fusa_asil-b.png"}})
 
+
 #### Functional Safty Project Award
+
 ![fusa_project_award]({{"assets/img/fusa_project_award.png"}})
 
+
 #### Functional Safty Management Award
+
 ![fusa_management_award]({{"assets/img/fusa_management_award.png"}})
