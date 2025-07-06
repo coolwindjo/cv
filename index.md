@@ -60,7 +60,7 @@ Analytical Skills and Methodologies
 ||||
 |:-------------|:------------------|:------|
 | [IEEE Sensors Journal](<https://ieee-sensors.org/ieee-sensors-journal/>){:target="_blanks"} <br>(2025) | [LiDAR Denoising Methods in Adverse Environments: A Review](<https://ieeexplore.ieee.org/abstract/document/10839256>){:target="_blank"} <br>&nbsp;&nbsp;&nbsp;&nbsp;• Comprehensive review of state-of-the-art LiDAR denoising techniques<br>&nbsp;&nbsp;&nbsp;&nbsp;• Analysis of performance in various adverse environmental conditions | |
-| [Sensor Signal Processing for Defence 2023](<https://sspd.eng.ed.ac.uk/>){:target="_blank"} <br>(2023) | [Kalman Filter-Based Suspicious Object Tracking for Border Security and Surveillance System using Fixed Automotive Radar](<https://ieeexplore.ieee.org/abstract/document/10257069>){:target="_blank"} <br>&nbsp;&nbsp;&nbsp;&nbsp;• Novel approach for radar-based object tracking in security applications<br>&nbsp;&nbsp;&nbsp;&nbsp;• Implementation of adaptive Kalman filter for improved tracking accuracy | |
+| [Sensor Signal Processing for Defence](<https://sspd.eng.ed.ac.uk/>){:target="_blank"} <br>(2023) | [Kalman Filter-Based Suspicious Object Tracking for Border Security and Surveillance System using Fixed Automotive Radar](<https://ieeexplore.ieee.org/abstract/document/10257069>){:target="_blank"} <br>&nbsp;&nbsp;&nbsp;&nbsp;• Novel approach for radar-based object tracking in security applications<br>&nbsp;&nbsp;&nbsp;&nbsp;• Implementation of adaptive Kalman filter for improved tracking accuracy | |
 
 <br>
 <br>
