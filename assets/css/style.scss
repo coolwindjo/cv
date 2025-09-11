@@ -60,3 +60,24 @@
     width: 70%;
   }
 }
+
+/* Print-specific styles: Make index.md content more narrower when printing */
+@media print {
+  section {
+    font-size: 70%; /* smaller text to fit more per page */
+  }
+
+  /* Hide navigation (Contents) on print */
+  .link-wrapper .sidebar-h3,
+  .link-wrapper .content,
+  .link-wrapper-mobile .sidebar-h3,
+  .link-wrapper-mobile .content {
+    display: none !important;
+  }
+
+  /* Hide platforms on print */
+  .link-wrapper .link,
+  .link-wrapper-mobile .link {
+    display: none !important;
+  }
+}

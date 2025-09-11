@@ -36,3 +36,5 @@ navigation:
     link: ./index.html#language
   - name: AWARDS
     link: ./index.html#awards
+  - name: GLOSSARY OF TECHNICAL TERMS
+    link: ./index.html#glossary-of-technical-terms
