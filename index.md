@@ -12,11 +12,10 @@ From 2013 to 2022, I architected **real-time computer vision algorithms** for **
 
 Currently at **Autocrypt Technologies GmbH** since June 2023, I bridge automotive cybersecurity with modern DevOps practices as **Technical Project Manager**, overseeing IDPS development for next-generation connected vehicles. Leading a distributed team of 15+ engineers, I've implemented agile methodologies that improved delivery predictability by 60%. My role combines hands-on security architecture (**AUTOSAR-compliant IDPS**, Hardware Security Module integration, real-time threat monitoring on ARM Cortex processors) with strategic program management for a Tier-1 supplier serving a **global OEM**.
 
-My technical foundation spans **C++ (12+ years)**, Python, Docker, Kubernetes, and emerging cloud technologies. I've published peer-reviewed research including <a href="#publications"><b>LiDAR Denoising Methods in Adverse Environments: A Review</b></a> published in **IEEE Sensors Journal**, 2025, and <a href="#publications"><b>Kalman Filter-Based Suspicious Object Tracking for Border Security and Surveillance System using Fixed Automotive Radar</b></a> for **Sensor Signal Processing for Defence 2023**. Actively pursuing AWS Solutions Architect certification to complement my embedded systems expertise with cloud-native architectures, positioning myself at the intersection of automotive innovation and enterprise-scale computing.
+<span class="print-hide">My technical foundation spans C++ (12+ years), Python, Docker, Kubernetes, and emerging cloud technologies. I've published peer-reviewed research including <a href="#publications"><b>LiDAR Denoising Methods in Adverse Environments: A Review</b></a> published in IEEE Sensors Journal, 2025, and <a href="#publications"><b>Kalman Filter-Based Suspicious Object Tracking for Border Security and Surveillance System using Fixed Automotive Radar</b></a> for Sensor Signal Processing for Defence 2023. Actively pursuing AWS Solutions Architect certification to complement my embedded systems expertise with cloud-native architectures, positioning myself at the intersection of automotive innovation and enterprise-scale computing.</span>
 
 <br>
-<br>
-<br>
+<p class="print-hide"> <br><br> </p>
 
 ### SKILLS
 
@@ -48,8 +47,7 @@ Analytical Skills and Methodologies
 -	Test-Driven Development (Intermediate,  2 y 2 years ago)
 
 <br>
-<br>
-<br>
+<p class="print-hide"> <br><br> </p>
 
 ### PUBLICATIONS
 
@@ -59,8 +57,7 @@ Analytical Skills and Methodologies
 | [Sensor Signal Processing for Defence](<https://sspd.eng.ed.ac.uk/>){:target="_blank"} <br>(2023) | [Kalman Filter-Based Suspicious Object Tracking for Border Security and Surveillance System using Fixed Automotive Radar](<https://ieeexplore.ieee.org/abstract/document/10257069>){:target="_blank"} <br>&nbsp;&nbsp;&nbsp;&nbsp;• Novel approach for radar-based object tracking in security applications<br>&nbsp;&nbsp;&nbsp;&nbsp;• Implementation of adaptive Kalman filter for improved tracking accuracy | |
 
 <br>
-<br>
-<br>
+<p class="print-hide"> <br><br> </p>
 
 ### PATENTS
 
@@ -70,7 +67,7 @@ Analytical Skills and Methodologies
 
 <br>
 <br>
-<br>
+<p class="print-hide"> <br> </p>
 
 ### WORK EXPERIENCE
 
@@ -83,8 +80,7 @@ Analytical Skills and Methodologies
 | **LG Electronics**<br>(Jan 2014 – Feb 2016) | **Application Software Developer**, researched on Advanced Driver Assistance Systems:<br>&nbsp;&nbsp;&nbsp;&nbsp;• Implementing function signal visualizer (viewer) using ADTF with C++ for proof of concept for OEM demonstration<br>&nbsp;&nbsp;&nbsp;&nbsp;• Taking an initiative action for preparing a group to apply Functional Safety concept based on ISO26262<br>&nbsp;&nbsp;&nbsp;&nbsp;• Implementing CAN router with PCAN-Router<br>**Skills**: C++, ADTF (Automotive Data and Time-Triggered Framework), Algorithms, Computer Vision Algorithm, Git | Incheon, Korea |
 
 <br>
-<br>
-<br>
+<p class="print-hide"> <br><br> </p>
 
 ### EDUCATION
 
@@ -92,17 +88,20 @@ Analytical Skills and Methodologies
 |:-------------|:------------------|:------|
 | **KAIST**<br>(Feb. 2011 – Feb. 2013) | **M.S.** in Dept. of **Mechanical Engineering**<br>&nbsp;&nbsp;&nbsp;&nbsp;• **Optimization Algorithm**<br>&nbsp;&nbsp;&nbsp;&nbsp;• [Model-based Optimal Hand Posture Recognition using Kinect Sensor](<https://koasas.kaist.ac.kr/handle/10203/181739>){:target="_blank"} | Daejeon, Korea |
 | **Hanyang Univ.**<br>(Mar. 2004 – Feb. 2011) | **B.S.** in Major of Computer (**Computer Science**) | Seoul, Korea |
-| Eastbourne School of English<br>(Jan. 2007 – Jul. 2007) | Language course for "Cambridge Exam"<br>&nbsp;&nbsp;&nbsp;&nbsp;• studying English speaking and being certified as an intermediate level of English speaker | Eastbourne, The UK |
+| <span class="print-hide">Eastbourne School of English<br>(Jan. 2007 – Jul. 2007)</span> | <span class="print-hide">Language course for "Cambridge Exam"<br>&nbsp;&nbsp;&nbsp;&nbsp;• studying English speaking and being certified as an intermediate level of English speaker</span> | <span class="print-hide">Eastbourne, The UK</span> |
 
 <br>
 <br>
 <br>
+<p class="print-only"> <br><br><br> </p>
 
 ### LANGUAGE
 
-#### Korean – Native
-#### German – Beginner
-#### English – Upper Intermediate
+||
+|:------------------------|
+| **KOREAN** - **Native** |
+| **GERMAN** - **Beginner** |
+| **ENGLISH** - **Upper Intermediate** |
 
 |||
 |:-------------|:------------------|
@@ -111,8 +110,7 @@ Analytical Skills and Methodologies
 | **TOEIC** (31 May 2009) | **925**/990 (RC:435 / LC:490) |
 
 <br>
-<br>
-<br>
+<p class="print-hide"> <br><br> </p>
 
 ### AWARDS
 
@@ -124,31 +122,26 @@ Analytical Skills and Methodologies
 | **KAIST**<br>(Dec. 2012) | **Outstanding Globalization Award for BK21**<br>&nbsp;&nbsp;&nbsp;&nbsp;• being recognized with honor for outstanding research excellence | Daejeon, Korea |
 | **Hanyang Univ.**<br>(Feb. 2012) | **Outstanding Graduation Project in Capstone Design Fair**<br>&nbsp;&nbsp;&nbsp;&nbsp;• "NoteMate" - virtual drawing and capturing device using Augmented Reality | Seoul, Korea |
 | **Hanyang Univ.**<br>(Mar. 2004 - Sep. 2010) | **6 scholarships** for 8 semesters including **Full scholarships for highest distinction** or **outstanding student** | Seoul, Korea |
-| **Hanyang Univ.**<br>(Nov. 2008) | **Best Mentor Honors**<br>&nbsp;&nbsp;&nbsp;&nbsp;• winning the prize for the best mentor in Foreign Students Mentoring Program | Seoul, Korea |
-
+| <span class="print-only"> <br><br><br><br><br><br> </span> <span class="print-hide">**Hanyang Univ.**<br>(Nov. 2008)</span> | <span class="print-hide">**Best Mentor Honors**<br>&nbsp;&nbsp;&nbsp;&nbsp;• winning the prize for the best mentor in Foreign Students Mentoring Program</span> | <span class="print-hide">Seoul, Korea</span> |
 
 #### AutoSens Award
 
 ![autosens_award]({{"assets/img/autosens_award.png"}})
 
-
 #### Functional Safty ASIL-B
 
 ![fusa_asil]({{"assets/img/fusa_asil-b.png"}})
 
-
 #### Functional Safty Project Award
 
 ![fusa_project_award]({{"assets/img/fusa_project_award.png"}})
-
 
 #### Functional Safty Management Award
 
 ![fusa_management_award]({{"assets/img/fusa_management_award.png"}})
 
 <br>
-<br>
-<br>
+<p class="print-hide"> <br><br> </p>
 
 ### Glossary of Technical Terms
 

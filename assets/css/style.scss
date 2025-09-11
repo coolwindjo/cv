@@ -62,9 +62,15 @@
 }
 
 /* Print-specific styles: Make index.md content more narrower when printing */
+
+/* Default: hide print-only elements on screen */
+.print-only {
+  display: none !important;
+}
+
 @media print {
   section {
-    font-size: 70%; /* smaller text to fit more per page */
+    font-size: 75%; /* smaller text to fit more per page */
   }
 
   /* Hide navigation (Contents) on print */
@@ -79,5 +85,15 @@
   .link-wrapper .link,
   .link-wrapper-mobile .link {
     display: none !important;
+  }
+
+  /* Utility: hide elements selectively in print */
+  .print-hide {
+    display: none !important;
+  }
+
+  /* Utility: show only in print */
+  .print-only {
+    display: block !important;
   }
 }
