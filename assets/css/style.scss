@@ -70,7 +70,7 @@
 
 @media print {
   section {
-    font-size: 75%; /* smaller text to fit more per page */
+    font-size: 60%; /* smaller text to fit more per page */
   }
 
   /* Hide navigation (Contents) on print */
@@ -95,5 +95,109 @@
   /* Utility: show only in print */
   .print-only {
     display: block !important;
+  }
+
+  /* Reduce spacing between headers and tables in print - make as tight as possible */
+  section h2 {
+    margin-bottom: -10px !important;
+    padding-bottom: 0 !important;
+    line-height: 1.1 !important;
+  }
+
+  section h3 {
+    margin-bottom: -10px !important;
+    padding-bottom: 0 !important;
+    line-height: 1.1 !important;
+  }
+
+  /* Target all tables in section and use negative margin to pull them up tightly */
+  section table {
+    margin-top: -20px !important;
+    padding-top: 0 !important;
+  }
+
+  /* Collapse empty paragraphs between headers and tables */
+  section h2 + p:empty,
+  section h3 + p:empty {
+    display: none !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    height: 0 !important;
+    line-height: 0 !important;
+  }
+
+  /* Minimize spacing for any paragraph immediately after headers */
+  section h2 + p,
+  section h3 + p {
+    margin-top: 0 !important;
+    margin-bottom: -20px !important;
+    line-height: 0.1 !important;
+    min-height: 0 !important;
+    max-height: 2px !important;
+    overflow: hidden !important;
+  }
+
+  /* Reduce logo image size by half when printing */
+  .logo {
+    width: 13% !important;
+    max-width: 13% !important;
+    height: auto !important;
+    margin-top: 5px !important;
+  }
+
+  /* Reduce font size of description/title so it fits on one line */
+  header > p:first-of-type {
+    font-size: 10pt !important;
+    line-height: 1.0 !important;
+  }
+
+  /* Reduce spacing between header (title) and "About Me" section to single line height */
+  header {
+    margin-bottom: 0 !important;
+    padding-bottom: 0 !important;
+  }
+
+  /* Reduce top margin/padding of section to minimize gap */
+  section {
+    margin-top: 0 !important;
+    padding-top: 0 !important;
+  }
+
+  /* Specifically target the first h3 (About Me) to reduce top spacing to single line height */
+  section h3:first-of-type {
+    margin-top: 1.1em !important;
+    padding-top: 0 !important;
+    margin-bottom: 0 !important;
+  }
+
+  /* Reduce any spacing elements between header and first section content */
+  header + section,
+  .sidebar + section {
+    margin-top: 0 !important;
+  }
+
+  /* Hide the Language scores table (second table after LANGUAGE header) when printing */
+  /* The LANGUAGE section has two tables - the first is language names (3 columns), second is scores (2 columns) */
+  /* We target the second table that comes after an h3 header */
+  section h3 + table + table {
+    display: none !important;
+  }
+
+  /* Increase width of middle column only in Work Experience table when printing */
+  /* Use ID selector for more reliable targeting */
+  section h3#work-experience + table td:nth-child(2),
+  section h3#work-experience + table th:nth-child(2) {
+    width: 80% !important;
+    min-width: 70% !important;
+  }
+
+  section h3#work-experience + table td:nth-child(1),
+  section h3#work-experience + table th:nth-child(1) {
+    width: 10% !important;
+  }
+
+  section h3#work-experience + table td:nth-child(3),
+  section h3#work-experience + table th:nth-child(3) {
+    width: 10% !important;
   }
 }

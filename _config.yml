@@ -1,7 +1,7 @@
-title: Jo, SeungHyeon
+title: Jo, SH(SeungHyeon)
 logo: /assets/img/logo.jpg
 email: coolwind@outlook.kr
-description: Automotive Cybersecurity Software Engineer specializing in Advanced Driver Assistance Systems
+description: Senior Software Engineer | Sensor Systems & Real-Time Data Pipelines for Autonomous Systems
 favicon: true
 google_analytics: G-5VQG4FFG1Q
 color-scheme: auto
@@ -12,9 +12,6 @@ plugins:
   - jemoji
 
 platforms:
-  - name: GitHub
-    icon: <i class="fa-brands fa-github"></i>
-    link: https://github.com/coolwindjo
   - name: LinkedIn
     icon: <i class="fa-brands fa-linkedin"></i>
     link: https://www.linkedin.com/in/josh-auto/
@@ -26,14 +23,14 @@ navigation:
     link: ./index.html#skills
   - name: PUBLICATIONS
     link: ./index.html#publications
-  - name: PATENTS
-    link: ./index.html#patents
   - name: WORK EXPERIENCE
     link: ./index.html#work-experience
   - name: EDUCATION
     link: ./index.html#education
   - name: LANGUAGE
     link: ./index.html#language
+  - name: PATENTS
+    link: ./index.html#patents
   - name: AWARDS
     link: ./index.html#awards
   - name: GLOSSARY OF TECHNICAL TERMS
