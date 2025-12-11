@@ -176,6 +176,13 @@
     margin-top: 0 !important;
   }
 
+  /* Print-only header links (GitHub/LinkedIn) smaller than tagline */
+  .header-links {
+    font-size: 8pt !important;
+    line-height: 1.2 !important;
+    margin: 0 0 0.4em 0 !important;
+  }
+
   /* Hide the Language scores table (second table after LANGUAGE header) when printing */
   /* The LANGUAGE section has two tables - the first is language names (3 columns), second is scores (2 columns) */
   /* We target the second table that comes after an h3 header */

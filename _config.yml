@@ -1,4 +1,4 @@
-title: Jo, SH(SeungHyeon)
+title: SeungHyeon Jo (Jo,SH)
 logo: /assets/img/logo.jpg
 email: coolwind@outlook.kr
 description: Senior Software Engineer | Sensor Systems & Real-Time Data Pipelines for Autonomous Systems
@@ -12,6 +12,9 @@ plugins:
   - jemoji
 
 platforms:
+  - name: GitHub
+    icon: <i class="fa-brands fa-github"></i>
+    link: https://github.com/coolwindjo
   - name: LinkedIn
     icon: <i class="fa-brands fa-linkedin"></i>
     link: https://www.linkedin.com/in/josh-auto/
