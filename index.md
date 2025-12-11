@@ -17,7 +17,7 @@ layout: default
 |:-------------|:------------------|
 | **Programming**: | C++ (12+ years), Python, Object-Oriented Architecture, Modular System Design |
 | **Robotics/Sensors**: | ROS (3 years), Camera Calibration, LiDAR Processing, Sensor Synchronization, Optical Flow |
-| **DevOps**: | Docker, Jenkins CI/CD, Google Test/TDD, Git, CMake |
+| **DevOps**: | Docker, Jenkins CI/CD, Google Test/TDD, Git, CMake, CMakePresets |
 | **Standards**:| ASPICE Level 3, ISO 26262 (ASIL-B), ISO/SAE 21434 |
 | **Data**:| Real-time streaming pipelines, ADTF framework, Sensor fusion architectures |
 
