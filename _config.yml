@@ -15,9 +15,12 @@ platforms:
   - name: GitHub
     icon: <i class="fa-brands fa-github"></i>
     link: https://github.com/coolwindjo
+  - name: Blog
+    icon: <i class="fa-solid fa-blog"></i>
+    link: https://coolwindjo.github.io
   - name: LinkedIn
     icon: <i class="fa-brands fa-linkedin"></i>
-    link: https://www.linkedin.com/in/josh-auto/
+    link: https://linkedin.com/in/josh-auto
 
 navigation:
   - name: ABOUT ME

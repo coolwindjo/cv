@@ -139,10 +139,10 @@
 
   /* Reduce logo image size by half when printing */
   .logo {
-    width: 13% !important;
-    max-width: 13% !important;
+    width: 15% !important;
+    max-width: 15% !important;
     height: auto !important;
-    margin-top: 5px !important;
+    margin-top: 10px !important;
   }
 
   /* Reduce font size of description/title so it fits on one line */
@@ -178,8 +178,8 @@
 
   /* Print-only header links (GitHub/LinkedIn) smaller than tagline */
   .header-links {
-    font-size: 8pt !important;
-    line-height: 1.2 !important;
+    font-size: 7pt !important;
+    line-height: 1.0 !important;
     margin: 0 0 0.4em 0 !important;
   }
 
