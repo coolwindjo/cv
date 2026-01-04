@@ -7,19 +7,34 @@ layout: default
 
 ||
 |:------------------------|
-| **C++ Software Engineer** with 12+ years in safety-critical embedded systems. Expertise in **sensor integration**, real-time data pipelines, and hardware-accelerated computer vision on multi-core SoCs. Published researcher in **IEEE Sensors Journal (LiDAR)** and **SSPD (Kalman filter tracking)**. Experienced with **ROS**, Docker, and CI/CD pipelines. Background in **ASIL-B certified ADAS** for Mercedes-Benz (**AutoSens 2020 Award**) demonstrates rigorous engineering practices directly transferable to robotic systems. <span class="print-hide"><br><br>My technical foundation spans C++ (12+ years), Python, Docker, Kubernetes, and emerging cloud technologies. I've published peer-reviewed research including <a href="#publications"><b>LiDAR Denoising Methods in Adverse Environments: A Review</b></a> published in IEEE Sensors Journal, 2025, and <a href="#publications"><b>Kalman Filter-Based Suspicious Object Tracking for Border Security and Surveillance System using Fixed Automotive Radar</b></a> for Sensor Signal Processing for Defence 2023. Actively pursuing AWS Solutions Architect certification to complement my embedded systems expertise with cloud-native architectures, positioning myself at the intersection of automotive innovation and enterprise-scale computing.</span> |
+| Strategic Software Architect with 12+ years of experience, uniquely distinguished by a **proven track record in high-volume mass-production (SOP)** for major global OEMs. Optimized perception pipeline to meet stringent NCAP real-time processing requirements, achieving stable performance under high SoC workload environments, most notably the award-winning **Mercedes-Benz MPC 5.5 (ASIL-B & ASPICE CL3)**. I specialize in bridging high-level AI algorithms with deep embedded hardware constraints (SoC/FPGA/DMA) to build **production-ready Physical AI**. My core value lies in delivering "Lab-to-Road" reliability—ensuring that advanced vision and sensor fusion systems perform deterministically in safety-critical, real-world environments where system failure is not an option.  <span class="print-hide"><br><br>My technical foundation spans C++ (12+ years), Python, Docker, Kubernetes, and emerging cloud technologies. I've published peer-reviewed research including <a href="#publications"><b>LiDAR Denoising Methods in Adverse Environments: A Review</b></a> published in IEEE Sensors Journal, 2025, and <a href="#publications"><b>Kalman Filter-Based Suspicious Object Tracking for Border Security and Surveillance System using Fixed Automotive Radar</b></a> for Sensor Signal Processing for Defence 2023. Actively pursuing AWS Solutions Architect certification to complement my embedded systems expertise with cloud-native architectures, positioning myself at the intersection of automotive innovation and enterprise-scale computing.</span> |
 
 <p class="print-hide"> <br><br> </p>
 
-### SKILLS
+### SKILLS {#skills}
 
 |||
 |:-------------|:------------------|
-| **Programming**: | C++ (12+ years), Python, Object-Oriented Architecture, Modular System Design |
-| **Robotics/Sensors**: | ROS (3 years), Camera Calibration, LiDAR Processing, Sensor Synchronization, Optical Flow |
-| **DevOps**: | Docker, Jenkins CI/CD, Google Test/TDD, Git, CMake, CMakePresets |
-| **Standards**:| ASPICE Level 3, ISO 26262 (ASIL-B), ISO/SAE 21434 |
-| **Data**:| Real-time streaming pipelines, ADTF framework, Sensor fusion architectures |
+| **Modern C++ (11/14/17):** | Expert in delivering **production-ready codebase** using **PImpl idiom** for ABI stability and **Thread-safe Singletons** for global configuration management. |
+| **Mass-Production Optimization:** | Expertise in **Zero-copy memory mapping (CMA)** and **DMA Double Buffering** to maximize SoC throughput while meeting stringent NCAP real-time requirements. |
+| **System Architecture & Reliability:** | Expert in UML/Enterprise Architect for **Safety-critical design**. Specialized in resolving multi-threaded **Race conditions** to ensure 99.99% system uptime. |
+| **Physical AI & Robotics Foundations:** | **Middleware Mastery:** ROS/ROS2 integration, DDS-based communication, and **ADTF** for high-bandwidth sensor data visualization and logging.
+| **Sensor & Perception:** | Multi-sensor extrinsic calibration (Camera/LiDAR), **Ego-motion estimation**, and hardware-accelerated **Optical Flow** for obstacle detection. |
+| **Edge AI Deployment:** | Implementing automated Model Quantization **pipelines (Jenkins/Docker) to deploy neural networks** onto constrained embedded targets. |
+| **Safety, Security & Process:** | **Standards:** **ISO 26262 (ASIL-B)**, **ISO/SAE 21434 (Cybersecurity)**, **ASPICE Level 3**. |
+| **DevOps for Robotics:** | **Docker-based** reproducible environments, **Jenkins** CI/CD pipelines, and **Google Test (TDD)** for mission-critical software. |
+
+<p class="print-hide"> <br><br> </p>
+
+### WORK EXPERIENCE {#work-experience}
+
+||||
+|:-------------|:------------------|:------|
+| **Autocrypt Technologies GmbH**<br>(Jun. 2023 – Sep. 2025) | **Automotive Cybersecurity Engineer / Technical Project Manager**<br>&nbsp;&nbsp;&nbsp;&nbsp;• Leading the integration of **IDPS (Intrusion Detection and Prevention System)** for Stellantis RTCU projects, managing cross-functional teams in Germany and Korea.<br>&nbsp;&nbsp;&nbsp;&nbsp;• Ensuring full compliance with UN R155/R156 and ISO/SAE 21434 standards for Q4 2025 SoP.<br>**Customer**: JoyNext (for Stellantis)| Munich, Germany |
+| **DXC Luxoft**<br>(Mar. 2022 – Jun. 2023) | **Senior Automotive Software Engineer**, HiL/SiL Systems for ADAS:<br>&nbsp;&nbsp;&nbsp;&nbsp;• Developed high-fidelity hardware simulation tools for Mobis using **Qt5 and Modern C++**, enabling virtual validation of sensor suites.<br>**Customer**: Hyundai Mobis (for HKMC)<br> | Seoul, Korea |
+| **LG Electronics**<br>(Jan. 2021 – Feb. 2022) | **Automotive Software Engineer**, In-cabin Vision Systems:<br>&nbsp;&nbsp;&nbsp;&nbsp;• Built an automated Model Quantization **pipeline using Jenkins and Docker**, streamlining the deployment of neural networks to embedded targets.<br>&nbsp;&nbsp;&nbsp;&nbsp;• Optimized **MLOps workflows** to ensure consistent inference accuracy across diverse driver monitoring scenarios.<br>**Customer**: HKMC (Hyundai/Kia Motors) | Seoul, Korea |
+| **LG Electronics**<br>(Jan. 2016 – Dec. 2020) | **MPC 5.5 Vision System for Mercedes-Benz** – ASIL-B Certified, ASPICE CL3<br>**Architecture & System Optimization (Technical Lead)**<br>&nbsp;&nbsp;&nbsp;&nbsp;• Engineered a **Zero-copy memory mapping** (CMA) and **DMA Double Buffering** pipeline on Renesas R-Car V3H, achieving deterministic real-time performance meeting NCAP requirements.<br>&nbsp;&nbsp;&nbsp;&nbsp;• Refactored legacy codebase using **Lattix DSM** and applied **Design Patterns** (Thread-safe Singleton, PImpl) to ensure ABI stability and reduce compilation time by 30%.<br><br>**Sensor Integration & Calibration**<br>&nbsp;&nbsp;&nbsp;&nbsp;• Led development of factory and online self-calibration algorithms for Roll/Pitch/Yaw using Six Sigma data analysis and Optical Flow-based vanishing point estimation.<br>&nbsp;&nbsp;&nbsp;&nbsp;• Solved a critical industry challenge by developing a **Botts' dots (raised lane marker)** detection algorithm for the US market, achieving 70%+ accuracy and securing ASIL-B certification.<br><br>**Process & Quality**<br>&nbsp;&nbsp;&nbsp;&nbsp;• Led the transition to a TDD-driven development culture within the Lane Detection group; architected a Visual Studio-integrated Unit Test framework based on Software Detailed Design (SDD) to bridge the gap between SWE.3 and SWE.6.<br>&nbsp;&nbsp;&nbsp;&nbsp;• Engineered an automated Daily KPI Dashboard by measuring and recording performance metrics across individual developer branches; provided real-time visibility into software health and team-wide development progress, contributing to ASPICE CL3 achievement.<br>**Customer**: Daimler Mercedes-Benz<br>**Awards**: [LG Wins AutoSens 2020 Vision Award](<https://www.lg.com/global/newsroom/news/vehicle-component-solutions/lg-wins-autosens-2020-vision-award-for-collaboration-with-mercedes-benz/>){:target="_blank"}<br>**Article links**: [LG ADAS Vision System - Driving Solutions](<https://www.lg.com/global/mobility/adas-vision-system/driving-solutions>){:target="_blank"} / [LG ADAS in new Mercedes-Benz C-Class](<https://www.lg.com/global/newsroom/news/vehicle-component-solutions/lg-adas-camera-module-boosts-driver-and-passenger-safety-in-new-mercedes-benz-c-class/>){:target="_blank"}| Seoul, Korea |
+| **LG Electronics**<br>(Jan. 2014 – Feb. 2016) | **Application Software Developer**, ADAS Research & PoC:<br>&nbsp;&nbsp;&nbsp;&nbsp;• Implemented high-performance signal visualization tools using **ADTF and C++** for OEM demonstrations.<br>&nbsp;&nbsp;&nbsp;&nbsp;• Developed CAN routing modules using PCAN-Router and initiated early-phase ISO 26262 functional safety foundations.| Incheon, Korea |
 
 <p class="print-hide"> <br><br> </p>
 
@@ -32,19 +47,7 @@ layout: default
 
 <p class="print-hide"> <br><br> </p>
 
-### WORK EXPERIENCE {#work-experience}
-
-||||
-|:-------------|:------------------|:------|
-| **Autocrypt Technologies GmbH**<br>(Jun. 2023 – Sep. 2025) | **Automotive Cybersecurity Engineer / Technical Project Manager**<br>&nbsp;&nbsp;&nbsp;&nbsp;• Led cross-functional teams across Germany and Korea for system integration projects<br>&nbsp;&nbsp;&nbsp;&nbsp;• Developed automated testing frameworks with HiLs integration<br>&nbsp;&nbsp;&nbsp;&nbsp;• Ensuring compliance with automotive cybersecurity standards (ISO/SAE 21434, ISO 15118)<br>**Customer**: Major European OEM (via Tier-1 supplier)<br>**Skills**: C++, IDS, Security Fuzzing, Project Management, ISO/SAE 21434, ISO 15118 | Munich, Germany |
-| **DXC Luxoft**<br>(Mar. 2022 – Jun. 2023) | **Senior Automotive Software Engineer**, developed HiL/SiL system for ADAS:<br>&nbsp;&nbsp;&nbsp;&nbsp;• Implemented hardware simulation tools using Qt5 and C++<br>&nbsp;&nbsp;&nbsp;&nbsp;• Designed modular, testable architecture for scalable test environments<br>**Customer**: Mobis<br>**Skills**: C++, CMake, Docker, Qt, Google Test, TDD | Seoul, Korea |
-| **LG Electronics**<br>(Jan. 2021 – Feb. 2022) | **Automotive Software Engineer**, developed interior camera algorithms (driver/cabin monitoring):<br>&nbsp;&nbsp;&nbsp;&nbsp;• Implemented quantization automation system using Jenkins in Docker<br>&nbsp;&nbsp;&nbsp;&nbsp;• Researched MLOps process for neural network deployment<br>**Customer**: HKMC<br>**Skills**: C++, Computer Vision, Docker, Google Test, TDD, Jenkins Pipeline, Machine Learning | Seoul, Korea |
-| **LG Electronics**<br>(Jan. 2016 – Dec. 2020) | **MPC 5.5 Vision System for Mercedes-Benz** – ASIL-B certified, ASPICE CL3<br><br>**Multi-Sensor Integration & Calibration (Group Lead)**<br>&nbsp;&nbsp;&nbsp;&nbsp;• Led camera extrinsic calibration and ego-motion estimation algorithm development<br>&nbsp;&nbsp;&nbsp;&nbsp;• Designed Factory/Online self-calibration for Roll/Pitch/Yaw using Six Sigma data analysis<br>&nbsp;&nbsp;&nbsp;&nbsp;• Implemented Dense Optical Flow-based vanishing point estimation for sensor alignment<br><br>**Real-Time Data Pipeline on Renesas V3H SoC**<br>&nbsp;&nbsp;&nbsp;&nbsp;• Implemented Zero-copy memory mapping and DMA Double Buffering for CNN inference<br>&nbsp;&nbsp;&nbsp;&nbsp;• Designed parallel data distribution across 10 cores (IMP×5, CVe×5) via DMA Controller<br>&nbsp;&nbsp;&nbsp;&nbsp;• Achieved deterministic real-time processing through Burst Transfer and memory alignment<br><br>**Computer Vision Algorithm Development (C++)**<br>&nbsp;&nbsp;&nbsp;&nbsp;• Pioneered Botts' dots (raised lane marker) detection algorithm for California-specific requirement—a technically challenging problem no team member had attempted; achieved 70%+ detection rate without tracking module, enabling ASIL-B certification<br>&nbsp;&nbsp;&nbsp;&nbsp;• Built DGPS/Annotated ground truth data pipeline and visualization system using ADTF<br><br>**Software Architecture & Process**<br>&nbsp;&nbsp;&nbsp;&nbsp;• Led Lattix DSM-based refactoring to establish modular, layered architecture<br>&nbsp;&nbsp;&nbsp;&nbsp;• Built Jenkins Pipeline CI/CD with daily KPI metrics; established Google Test TDD framework<br>**Customer**: DAIMLER Mercedes Benz<br>**Article links**:<br>&nbsp;&nbsp;&nbsp;&nbsp;• [LG ADAS Vision System - Driving Solutions](<https://www.lg.com/global/mobility/adas-vision-system/driving-solutions>){:target="_blank"}<br>&nbsp;&nbsp;&nbsp;&nbsp;• [LG ADAS camera in new Mercedes-Benz C-Class](<https://www.lgnewsroom.com/2021/10/lg-adas-camera-module-boosts-driver-and-passenger-safety-in-new-mercedes-benz-c-class/>){:target="_blank"}<br>&nbsp;&nbsp;&nbsp;&nbsp;• [LG Wins AutoSens 2020 Vision Award](<https://www.lgnewsroom.com/2021/11/lg-wins-autosens-2020-vision-award-for-collaboration-with-mercedes-benz/>){:target="_blank"}<br>**Skills**: C++, ADTF, Computer Vision, Docker, Google Test, TDD, Jenkins Pipeline, Hardware-Accelerated CNN | Seoul, Korea |
-| **LG Electronics**<br>(Jan. 2014 – Feb. 2016) | **Application Software Developer**, researched on Advanced Driver Assistance Systems:<br>&nbsp;&nbsp;&nbsp;&nbsp;• Implemented function signal visualizer using ADTF with C++ for PoC OEM demonstration<br>&nbsp;&nbsp;&nbsp;&nbsp;• Initiated ISO 26262 functional safety foundation in project early phase<br>&nbsp;&nbsp;&nbsp;&nbsp;• Implementing CAN router with PCAN-Router<br>**Skills**: C++, ADTF, Algorithms, Computer Vision | Incheon, Korea |
-
-<p class="print-hide"> <br><br> </p>
-
-### EDUCATION
+### EDUCATION {#education}
 
 ||||
 |:-------------|:------------------|:------|
@@ -67,14 +70,6 @@ layout: default
 
 <p class="print-hide"> <br><br> </p>
 
-### PATENTS
-
-||||
-|:-------------|:------------------|:------|
-| **Display Apparatus and Vehicle Having The Same** <br> (Mar. 2018) | Patent Registration: KR 10-1838187<br>&nbsp;&nbsp;&nbsp;&nbsp;• Innovative display system for automotive applications | Korea |
-
-<p class="print-hide"> <br><br> </p>
-
 ### AWARDS
 
 ||||
@@ -85,7 +80,17 @@ layout: default
 | **KAIST**<br>(Dec. 2012) | **Outstanding Globalization Award for BK21**<br>&nbsp;&nbsp;&nbsp;&nbsp;• Recognized for outstanding research excellence | Daejeon, Korea |
 | **Hanyang Univ.**<br>(Feb. 2012) | **Outstanding Graduation Project in Capstone Design Fair**<br>&nbsp;&nbsp;&nbsp;&nbsp;• "NoteMate" - virtual drawing and capturing device using Augmented Reality | Seoul, Korea |
 | **Hanyang Univ.**<br>(Mar. 2004 - Sep. 2010) | **6 scholarships** for 8 semesters including **Full scholarships for highest distinction** | Seoul, Korea |
-| <span class="print-only"> <br><br><br><br><br><br> </span> <span class="print-hide">**Hanyang Univ.**<br>(Nov. 2008)</span> | <span class="print-hide">**Best Mentor Honors**<br>&nbsp;&nbsp;&nbsp;&nbsp;• winning the prize for the best mentor in Foreign Students Mentoring Program</span> | <span class="print-hide">Seoul, Korea</span> |
+
+<p class="print-hide"> <br><br> </p>
+
+### PATENTS
+
+||||
+|:-------------|:------------------|:------|
+| **Display Apparatus and Vehicle Having The Same** <br> (Mar. 2018) | Patent Registration: KR 10-1838187<br>&nbsp;&nbsp;&nbsp;&nbsp;• Innovative display system for automotive applications | Korea |
+
+<p class="print-hide"> <br><br> </p>
+
 
 <br>
 

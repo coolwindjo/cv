@@ -27,17 +27,17 @@ navigation:
     link: ./index.html#about-me
   - name: SKILLS
     link: ./index.html#skills
-  - name: PUBLICATIONS
-    link: ./index.html#publications
   - name: WORK EXPERIENCE
     link: ./index.html#work-experience
+  - name: PUBLICATIONS
+    link: ./index.html#publications
   - name: EDUCATION
     link: ./index.html#education
   - name: LANGUAGE
     link: ./index.html#language
-  - name: PATENTS
-    link: ./index.html#patents
   - name: AWARDS
     link: ./index.html#awards
+  - name: PATENTS
+    link: ./index.html#patents
   - name: GLOSSARY OF TECHNICAL TERMS
     link: ./index.html#glossary-of-technical-terms

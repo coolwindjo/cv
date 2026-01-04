@@ -69,7 +69,23 @@
 }
 
 @media print {
+  html, body {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+  }
+
+  .wrapper {
+    width: 95% !important;
+    margin: 0 auto !important;
+    padding: 0 !important;
+    max-width: none !important;
+  }
+
   section {
+    width: 100% !important;
+    padding: 0 !important;
+    margin: 0 0 3% 0 !important;
     font-size: 60%; /* smaller text to fit more per page */
   }
 
@@ -98,14 +114,8 @@
   }
 
   /* Reduce spacing between headers and tables in print - make as tight as possible */
-  section h2 {
-    margin-bottom: -10px !important;
-    padding-bottom: 0 !important;
-    line-height: 1.1 !important;
-  }
-
   section h3 {
-    margin-bottom: -10px !important;
+    margin-bottom: -20px !important;
     padding-bottom: 0 !important;
     line-height: 1.1 !important;
   }
@@ -142,7 +152,7 @@
     width: 15% !important;
     max-width: 15% !important;
     height: auto !important;
-    margin-top: 10px !important;
+    margin-top: 5px !important;
   }
 
   /* Reduce font size of description/title so it fits on one line */
@@ -157,15 +167,9 @@
     padding-bottom: 0 !important;
   }
 
-  /* Reduce top margin/padding of section to minimize gap */
-  section {
-    margin-top: 0 !important;
-    padding-top: 0 !important;
-  }
-
   /* Specifically target the first h3 (About Me) to reduce top spacing to single line height */
   section h3:first-of-type {
-    margin-top: 1.1em !important;
+    margin-top: 1em !important;
     padding-top: 0 !important;
     margin-bottom: 0 !important;
   }
@@ -190,21 +194,50 @@
     display: none !important;
   }
 
+  /* Use ID selector for more reliable targeting */
+  section h3#skills + table td:nth-child(2),
+  section h3#skills + table th:nth-child(2) {
+    width: 75% !important;
+    min-width: 70% !important;
+  }
+
+  section h3#skills + table td:nth-child(1),
+  section h3#skills + table th:nth-child(1) {
+    width: 25% !important;
+  }
+
   /* Increase width of middle column only in Work Experience table when printing */
   /* Use ID selector for more reliable targeting */
   section h3#work-experience + table td:nth-child(2),
   section h3#work-experience + table th:nth-child(2) {
-    width: 80% !important;
-    min-width: 70% !important;
+    width: 95% !important;
+    min-width: 90% !important;
   }
 
   section h3#work-experience + table td:nth-child(1),
   section h3#work-experience + table th:nth-child(1) {
-    width: 10% !important;
+    width: 3% !important;
   }
 
   section h3#work-experience + table td:nth-child(3),
   section h3#work-experience + table th:nth-child(3) {
+    width: 2% !important;
+  }
+
+  /* Use ID selector for more reliable targeting */
+  section h3#education + table td:nth-child(2),
+  section h3#education + table th:nth-child(2) {
+    width: 60% !important;
+    min-width: 50% !important;
+  }
+
+  section h3#education + table td:nth-child(1),
+  section h3#education + table th:nth-child(1) {
+    width: 30% !important;
+  }
+
+  section h3#education + table td:nth-child(3),
+  section h3#education + table th:nth-child(3) {
     width: 10% !important;
   }
 }
