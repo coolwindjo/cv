@@ -227,13 +227,13 @@
   /* Use ID selector for more reliable targeting */
   section h3#education + table td:nth-child(2),
   section h3#education + table th:nth-child(2) {
-    width: 60% !important;
-    min-width: 50% !important;
+    width: 71% !important;
+    min-width: 61% !important;
   }
 
   section h3#education + table td:nth-child(1),
   section h3#education + table th:nth-child(1) {
-    width: 30% !important;
+    width: 19% !important;
   }
 
   section h3#education + table td:nth-child(3),
