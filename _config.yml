@@ -1,7 +1,7 @@
 title: SeungHyeon Jo (Jo,SH)
-logo: /assets/img/logo.jpg
+logo: /assets/img/logo.jpeg
 email: coolwind@outlook.kr
-description: Senior Software Engineer | Sensor Systems & Real-Time Data Pipelines for Autonomous Systems
+description: Senior Systems Architect | Physical AI Deployment & Safety-critical Systems
 favicon: true
 google_analytics: G-5VQG4FFG1Q
 color-scheme: auto
@@ -25,14 +25,14 @@ platforms:
 navigation:
   - name: ABOUT ME
     link: ./index.html#about-me
+  - name: EDUCATION
+    link: ./index.html#education
   - name: SKILLS
     link: ./index.html#skills
   - name: WORK EXPERIENCE
     link: ./index.html#work-experience
   - name: PUBLICATIONS
     link: ./index.html#publications
-  - name: EDUCATION
-    link: ./index.html#education
   - name: LANGUAGE
     link: ./index.html#language
   - name: AWARDS

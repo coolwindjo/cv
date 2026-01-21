@@ -86,7 +86,7 @@
     width: 100% !important;
     padding: 0 !important;
     margin: 0 0 3% 0 !important;
-    font-size: 60%; /* smaller text to fit more per page */
+    font-size: 57% !important; /* smaller text to fit more per page */
   }
 
   /* Hide navigation (Contents) on print */
@@ -197,13 +197,13 @@
   /* Use ID selector for more reliable targeting */
   section h3#skills + table td:nth-child(2),
   section h3#skills + table th:nth-child(2) {
-    width: 75% !important;
-    min-width: 70% !important;
+    width: 85% !important;
+    min-width: 80% !important;
   }
 
   section h3#skills + table td:nth-child(1),
   section h3#skills + table th:nth-child(1) {
-    width: 25% !important;
+    width: 20% !important;
   }
 
   /* Increase width of middle column only in Work Experience table when printing */
@@ -216,12 +216,12 @@
 
   section h3#work-experience + table td:nth-child(1),
   section h3#work-experience + table th:nth-child(1) {
-    width: 3% !important;
+    width: 5% !important;
   }
 
   section h3#work-experience + table td:nth-child(3),
   section h3#work-experience + table th:nth-child(3) {
-    width: 2% !important;
+    width: 3% !important;
   }
 
   /* Use ID selector for more reliable targeting */
